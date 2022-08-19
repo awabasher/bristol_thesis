@@ -1,5 +1,5 @@
 # Spectrum Sharing in Cellular Networks (A Stochastic Geometry Based Approach for Cellular Network)
-This project was based around the spectrum sharing concept between mobile network operators. A stochastic geometry cellular network based on the Poisson Point Process is developed and Monte Carlo method is utilzed to determine network performance metrics. It allows an easy evaluation of different protocols for cellular networks. There are some useful bits of code if you look hard enough.
+This project was based around the spectrum sharing concept between mobile network operators. A stochastic geometry cellular network based on the Poisson Point Process is developed and Monte Carlo method is utilized to determine network performance metrics. It allows an easy evaluation of different protocols for cellular networks. There are some useful bits of code if you look hard enough.
 
 ## Opportunities:
 - Determine the optimal base station association in a stochastic geometry based network for users
